@@ -3,8 +3,8 @@
 <head>
     <title>Add Content Writer</title>
     <meta http-equiv="Cache-control" content="no-cache">
-    <link rel="stylesheet" href="../style.css" />
-    <script src="../script.js"></script>
+   <link rel="stylesheet" type="text/css" href="../style.css">
+   <script type='text/javascript' src='../script.js'></script>
 </head>
 <body>
     <h2>Add Content Writer</h2>

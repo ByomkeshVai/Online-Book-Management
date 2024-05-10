@@ -2,7 +2,8 @@
 <html>
 <head>
     <title>Content Writer Dashboard</title>
-    <link rel="stylesheet" href="../style.css" />
+       <link rel="stylesheet" type="text/css" href="../style.css">
+   <script type='text/javascript' src='../script.js'></script>
     <meta http-equiv="Cache-control" content="no-cache">
 </head>
 <body>

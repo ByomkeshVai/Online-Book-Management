@@ -4,9 +4,8 @@
 <title>Forgot Password</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../style.css" />
-    <meta http-equiv="Cache-control" content="no-cache">
-        <script src="../script.js"></script>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+   <script type='text/javascript' src='../script.js'></script>
     
 </head>
 <body>

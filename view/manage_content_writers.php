@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Manage Content Writers</title>
-        <script src="../script.js"></script>
+       <link rel="stylesheet" type="text/css" href="../style.css">
+   <script type='text/javascript' src='../script.js'></script>
          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 </head>

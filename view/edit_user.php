@@ -2,9 +2,10 @@
 <html>
 <head>
     <title>Edit User</title>
-    <link rel="stylesheet" href="../style.css" />
+     <link rel="stylesheet" type="text/css" href="../style.css">
+   <script type='text/javascript' src='../script.js'></script>
     <meta http-equiv="Cache-control" content="no-cache">
-        <script src="../script.js"></script>
+      
 </head>
 <body>
     <h2>Edit User</h2>

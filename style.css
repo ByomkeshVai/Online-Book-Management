@@ -1,23 +1,89 @@
-p {
-  color: #d3d3d3;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
 }
+
 h2 {
-  color: #0000ff;
+  color: red;
 }
-ul {
-  border: 1px solid #000000;
-}
-
-ul > li {
-  background-color: #ffffe0;
-  padding: 5px;
-}
-
-span {
-  font-size: 18px;
-  color: #008000;
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h3 > a {
-  font-family: "georgia", sans-serif;
+h2.welcome {
+  color: #333;
+  margin-top: 0;
+}
+
+h3.section-title {
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Dashboard Styles */
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.dashboard-table th,
+.dashboard-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.dashboard-table th {
+  background-color: #f2f2f2;
+}
+
+/* Profile Information Styles */
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.profile-table th,
+.profile-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.profile-table th {
+  background-color: #f2f2f2;
+}
+
+.edit-link,
+.delete-link,
+.change-pass-link,
+.manage-delivery-link,
+.manage-books-link,
+.manage-content-writers-link,
+.sales-history-link,
+.logout-link {
+  text-decoration: none;
+  color: #007bff;
+  margin-right: 10px;
+}
+
+.edit-link:hover,
+.delete-link:hover,
+.change-pass-link:hover,
+.manage-delivery-link:hover,
+.manage-books-link:hover,
+.manage-content-writers-link:hover,
+.sales-history-link:hover,
+.logout-link:hover {
+  color: #0056b3;
 }

@@ -3,7 +3,8 @@
 <head>
     <title>Manage Books</title>
     <meta http-equiv="Cache-control" content="no-cache">
-    <link rel="stylesheet" href="../style.css" />
+   <link rel="stylesheet" type="text/css" href="../style.css">
+   <script type='text/javascript' src='../script.js'></script>
     <script>
        function deleteBook(id) {
     if (confirm("Are you sure you want to delete this book?")) {

@@ -2,9 +2,10 @@
 <html>
 <head>
     <title>Change Password</title>3
-    <link rel="stylesheet" href="../style.css" />
+
     <meta http-equiv="Cache-control" content="no-cache">
-    <script src="../script.js"></script>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+   <script type='text/javascript' src='../script.js'></script>
 </head>
 <body>
     <h2>Change Password</h2>
